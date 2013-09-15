@@ -1,8 +1,14 @@
  <rohit>
 	<test>
-	<params>
-	<tag>input<tag>
-	<value>output</value>
+		<params>
+		<tag>input0<tag>
+		<value>output0</value>
+		<params>
+	</test>
+	<test>
+		<params>
+		<tag>input1<tag>
+		<value>output1</value>
 	<params>
 	</test>
 </rohit>
