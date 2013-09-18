@@ -10,5 +10,6 @@
 		<tag>input1<tag>
 		<value>output1</value>
 	<params>
+	<conflict>Thisa addition would create conflict</conflict>
 	</test>
 </rohit>
