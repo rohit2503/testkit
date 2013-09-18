@@ -1,16 +1,16 @@
  <rohit>
 	<test>
 		<params>
-		<tag>input0<tag>
-		<value>output0</value>
+		<tag>input1<tag>
+		<value>output1</value>
 		<params>
 	</test>
 	<test>
 		<params>
 		<tag>input1<tag>
-		<value>output12</value>
+		<value></value>
 	<params>
-	<conflict>Thisa addition would create conflict</conflict>
+	<conflict>This a addition would create conflict</conflict>
 	</test>
 	<test>
 		<params>
