@@ -8,8 +8,12 @@
 	<test>
 		<params>
 		<tag>input1<tag>
-		<value>output1</value>
+		<value>output12</value>
 	<params>
 	<conflict>Thisa addition would create conflict</conflict>
 	</test>
+	<test>
+		<params>
+		<tag>input1<tag>
+
 </rohit>
