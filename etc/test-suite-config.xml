@@ -11,4 +11,8 @@
 		<value>output12</value>
 	<params>
 	</test>
+	<test>
+		<params>
+		<tag>input1<tag>
+
 </rohit>
